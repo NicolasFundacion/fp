@@ -16,12 +16,12 @@
   },
   {
     "name": "Requiem for a dream",
-    "description": "Requiem for a dream es una película dirigida por Darren Aronofsky que narra la historia de Harry, un joven adicto a las drogas, y los que le rodean, entre ellos su madre que sueña con hacer dieta para salir en su programa de television favorito",
+    "description": "Requiem for a dream es una película dirigida por Darren Aronofsky que narra la historia de Harry, un joven adicto a las drogas, y los /nque le rodean, entre ellos su madre que sueña con hacer dieta para salir en su programa de television favorito",
     "image_url": "https://raw.githubusercontent.com/NicolasFundacion/fp/main/RequiemForADream.jpg"
   },
   {
     "name": "Sleuth",
-    "description": "Sleuth es una película dirigida por Joseph L. Mankiewicz que narra la historia de Andrew Wyke, un escritor de novelas de intriga y amante de las adivinanzas y los juegos el cual a convertido su casa en una especie de museo donde estos son expuestos, una tarde invita a su casa a Milo Tindel , amante de su mujer, para proponerle un ingenioso plan en el que los dos salirían beneficiados",
+    "description": "Sleuth es una película dirigida por Joseph L. Mankiewicz que narra la historia de Andrew Wyke, un escritor de novelas de intriga y amante /nde las adivinanzas y los juegos el cual a convertido su casa en una especie de museo donde estos son expuestos, una /ntarde invita a su casa a Milo Tindel , amante de su mujer, para proponerle un ingenioso plan en el que los dos salirían beneficiados",
     "image_url": "https://raw.githubusercontent.com/NicolasFundacion/fp/main/Sleuth.jpg"
   }
 ]
